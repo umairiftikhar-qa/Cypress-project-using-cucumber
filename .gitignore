@@ -1,0 +1,12 @@
+# Node artifact files
+node_modules/
+dist/
+
+# Package files
+*.jar
+
+# Unit test reports
+TEST*.xml
+
+# Cucumber Report
+reports
